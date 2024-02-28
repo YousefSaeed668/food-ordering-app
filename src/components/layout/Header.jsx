@@ -30,7 +30,7 @@ function Header() {
         {status === "unauthenticated" && (
           <>
             <Link href="/login" className="">
-              Login
+              Signin
             </Link>
             <Link
               href="/register"
