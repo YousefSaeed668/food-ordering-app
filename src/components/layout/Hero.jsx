@@ -18,10 +18,10 @@ function Hero() {
           delicious joy in life
         </p>
         <div className="flex gap-4  text-sm ">
-          <button className="bg-primary uppercaseitems-center flex gap-2 text-white px-4 py-2 rounded-full">
+          <button className="bg-primary justify-center uppercaseitems-center flex gap-2 text-white px-4 py-2 rounded-full">
             Order Now <Right />
           </button>
-          <button className="flex gap-2 py-2 text-gray-600 font-semibold">
+          <button className="flex gap-2 py-2 items-center border-0 text-gray-600 font-semibold">
             Learn More
             <Right />
           </button>
